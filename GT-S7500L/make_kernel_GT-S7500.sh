@@ -1,0 +1,2 @@
+make trebon05_defconfig
+make
