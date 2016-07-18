@@ -1,0 +1,5 @@
+config CPU_FREQ_GOV_Savaged-Zen
+tristate "'Savaged-Zen' cpufreq governor"
+depends on CPU_FREQ
+help
+'Savaged-Zen' - a "smart" optimized governor
